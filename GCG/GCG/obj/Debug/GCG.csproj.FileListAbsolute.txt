@@ -1,0 +1,13 @@
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.csprojAssemblyReference.cache
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.Form1.resources
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.Form2.resources
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.Form3.resources
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.Form4.resources
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.Properties.Resources.resources
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.csproj.GenerateResource.cache
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\GCG\GCG\bin\Debug\GCG.exe.config
+C:\Users\ENES\source\repos\GCG\GCG\bin\Debug\GCG.exe
+C:\Users\ENES\source\repos\GCG\GCG\bin\Debug\GCG.pdb
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.exe
+C:\Users\ENES\source\repos\GCG\GCG\obj\Debug\GCG.pdb
